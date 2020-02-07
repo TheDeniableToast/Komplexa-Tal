@@ -1,7 +1,10 @@
 public class Komplex {
 
-    private double re
-    private double im
+    private double re;
+    private double im;
+
+    public Komplex(double v, double v1) {
+    }
 
     public Komplex add( Komplex b) {}
     public Komplex multiply(Komplex b) {}
